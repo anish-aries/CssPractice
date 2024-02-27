@@ -1,0 +1,21 @@
+p{
+    height: 60%;
+    width: 30%;
+    border: 0.5px solid gray;
+
+}
+i {
+    text-align: center;
+    font-size: 30px;
+
+}
+.container .sub p i{
+    padding-left: 10px;
+    margin:10px;
+
+}
+.container .sub   /*both the div should be select for effect */
+{
+    display: flex;
+    justify-content: space-evenly;
+}
